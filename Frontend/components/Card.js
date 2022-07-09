@@ -32,7 +32,7 @@ const Card = ({ data }) => {
 
       {/* <SubInfo /> */}
 
-      <View style={{ width: "100%", padding: SIZES.font }}>
+      <View style={{ width: "100%", padding: SIZES.small }}>
         <NFTTitle
           title={data.name}
           
